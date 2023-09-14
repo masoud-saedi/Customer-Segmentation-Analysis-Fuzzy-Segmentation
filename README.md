@@ -12,7 +12,7 @@ The data used in this notebook is the result of several SQL queries that extract
 - [SQL Queries Gist](https://gist.github.com/masoud-saedi/df21e1f95fb900db6a5405e400a80d44)
 
 Please refer to this Gist to understand how the data was gathered and pre-processed.
-The final data that I have used in the notebook is the result of SQL queries 
+The final data that I have used in the notebook is the result of SQL queries, and if you want to rerun the notebook, you can download it from [here](https://drive.google.com/file/d/1npqXmRPM05rVbOm1ZEWQmk3H2INwOkap/view?usp=sharing). 
 
 ## Prerequisites
 To run this notebook, you will need:
